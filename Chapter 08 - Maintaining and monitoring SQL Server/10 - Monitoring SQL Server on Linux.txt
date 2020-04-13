@@ -1,0 +1,7 @@
+#The command htop shows much of the same commonly useful data with a more pleasant format and with color highlights
+htop
+
+#The tool iostat, available to install via the syststat performance monitoring tools. Source code for iostat is available at https://github.com/sysstat/sysstat  .  
+#For example:
+user@instance:~$ iostat -x  
+

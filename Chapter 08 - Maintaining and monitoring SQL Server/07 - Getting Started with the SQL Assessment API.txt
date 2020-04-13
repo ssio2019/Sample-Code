@@ -1,0 +1,4 @@
+:: Execute in a Command Prompt with Administrator permissions
+nuget install Microsoft.SqlServer.SqlManagementObjects
+:: You can optionally specify an installation location for the installation:
+nuget install Microsoft.SqlServer.SqlManagementObjects -OutputDirectory “c:\nuget\packages”

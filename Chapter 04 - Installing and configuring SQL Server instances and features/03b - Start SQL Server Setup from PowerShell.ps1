@@ -1,0 +1,1 @@
+.\Setup.exe /SQLSVCPASSWORD="securepwd" /ConfigurationFile=D:\SQL\PROD_Install.INI
